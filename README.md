@@ -8,7 +8,7 @@ This is an assignment project of Deep Learning, a course at Institute of Data Sc
 
 ### The raw data
     
-- Images: please go to https://drive.google.com/open?id=1kwYYWL67O0Dcbx3dvZIfbGg9NiHdyisr to download th raw image files and put them under the folder `./images/`. There are 64,225 files in the 50 subfolders.
+- Images: please go to https://drive.google.com/open?id=1kwYYWL67O0Dcbx3dvZIfbGg9NiHdyisr to download raw image files and put them under the folder `./images/`. There are 64,225 files with 50 subfolders.
 
 - File name lists of images: `./data/train.txt`, `./data/val.txt`, and `./data/test.txt`.
 
@@ -40,7 +40,7 @@ This is an assignment project of Deep Learning, a course at Institute of Data Sc
 
     - `args.py`: define the arguments parser
 
-- `main.py`: the main program with loading, training and, evaluating procedures.
+- `main.py`: the main program with loading, training, and evaluating procedures.
 
 - `exp_optimizers.py`: experiment program to compare different optimizers.
 
