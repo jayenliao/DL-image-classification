@@ -65,7 +65,7 @@ numpy==1.16.3
 pandas==1.1.5
 opencv_python==3.4.2.16
 sklearn==0.24.1
-xgboost＝＝1.3.3
+xgboost==1.3.3
 tqdm==4.50.0
 matplotlib
 ```
