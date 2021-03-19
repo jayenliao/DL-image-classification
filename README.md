@@ -8,7 +8,7 @@ This is an assignment project of Deep Learning, a course at Institute of Data Sc
 
 ### The raw data
     
-- Images: there are 64,225 files in the 50 subfolders under the folder `./images/`.
+- Images: please go to https://drive.google.com/open?id=1kwYYWL67O0Dcbx3dvZIfbGg9NiHdyisr to download th raw image files and put them under the folder `./images/`. There are 64,225 files in the 50 subfolders.
 
 - File name lists of images: `./data/train.txt`, `./data/val.txt`, and `./data/test.txt`.
 
@@ -52,7 +52,7 @@ This is an assignment project of Deep Learning, a course at Institute of Data Sc
 
 ## Folders
 
-- `./images/` contains raw image files.
+- `./images/` should contain raw image files (please go to download and put them with subfolders here).
 
 - `./data/` contains .txt files of image lists and .npy files of extracted feature matrices.
 
